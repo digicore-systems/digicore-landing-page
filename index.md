@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Digicore Systems
 
 You can use the [editor on GitHub](https://github.com/digicore-systems/landing-page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
